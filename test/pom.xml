@@ -7,7 +7,7 @@
   <groupId>com.mit.poc</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>test Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
